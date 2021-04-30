@@ -1,0 +1,3 @@
+import somestuff
+
+bot()
